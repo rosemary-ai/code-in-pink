@@ -1,0 +1,21 @@
+{
+  "name": "code-in-pink",
+  "displayName": "Code In Pink",
+  "description": "Objectively the best colour to code in I don't take criticisms",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code In Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Code In Pink-color-theme.json"
+      }
+    ]
+  }
+}
